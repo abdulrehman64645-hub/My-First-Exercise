@@ -1,0 +1,15 @@
+  .name , .email
+  {
+    border: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    width: 40px;
+    vertical-align: middle;
+  }
+  
+
+  .para{
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+  }
